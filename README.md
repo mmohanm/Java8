@@ -1,2 +1,2 @@
 # Java8
-Examples on Java 8 Features
+Examples to explore new features of Java 8
